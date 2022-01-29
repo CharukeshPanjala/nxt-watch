@@ -1,0 +1,1084 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCPYQN94_TEST_108",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_109",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_110",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_111",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_112",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_113",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_114",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_115",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_116",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_117",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_118",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_119",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_120",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_121",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_122",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_123",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_124",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_125",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_126",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_127",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_128",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_129",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_130",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_131",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_132",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_1",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_2",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_3",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_4",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_5",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_6",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_7",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_8",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_9",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_10",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_11",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_12",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_13",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_14",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_15",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_16",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_17",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_18",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_19",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_20",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_21",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_22",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_23",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_24",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_180",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_181",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_182",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_183",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_184",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_185",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_186",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_187",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_188",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_189",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_190",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_191",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_192",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_193",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_194",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_195",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_196",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_197",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_198",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_199",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_200",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_201",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_202",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_203",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_204",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_205",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_30",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_31",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_32",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_33",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_34",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_35",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_36",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_37",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_38",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_39",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_40",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_41",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_42",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_43",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_44",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_226",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_227",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_228",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_229",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_230",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_231",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_232",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_233",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_234",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_235",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_236",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_237",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_238",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_239",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_240",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_241",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_242",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_243",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_244",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_245",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_246",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_247",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_248",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_249",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_250",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_251",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_252",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_253",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_254",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_255",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_256",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_257",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_258",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_259",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_260",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_261",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_262",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_263",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_264",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_265",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_266",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_267",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_268",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_269",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_136",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_137",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_138",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_139",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_140",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_141",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_142",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_143",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_144",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_145",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_146",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_147",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_148",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_149",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_150",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_151",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_152",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_153",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_154",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_155",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_156",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_157",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_158",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_159",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_160",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_161",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_162",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_163",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_164",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_165",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_211",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_212",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_213",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_214",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_215",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_216",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_217",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_218",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_219",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_220",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_221",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_222",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_223",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_224",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_225",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_166",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_167",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_168",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_169",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_170",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_171",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_172",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_173",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_174",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_175",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_176",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_177",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_178",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_179",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_206",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_207",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_208",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_209",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_210",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_270",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_88",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_89",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_90",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_91",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_92",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_133",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_134",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_135",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_25",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_26",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_27",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_28",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_29",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_45",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_46",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_47",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_48",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_49",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_50",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_51",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_52",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_53",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_54",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_55",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_56",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_57",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_58",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_59",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_60",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_61",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_62",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_63",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_64",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_65",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_66",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_67",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_68",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_69",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_70",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_71",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_72",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_73",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_74",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_75",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_76",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_77",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_78",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_79",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_80",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_81",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_82",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_83",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_84",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_85",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_86",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_87",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_93",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_94",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_95",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_96",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_97",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_98",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_99",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_100",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_101",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_102",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_103",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_104",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_105",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_106",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPYQN94_TEST_107",
+      "evaluation_result": "CORRECT"
+    }
+  ]
+}

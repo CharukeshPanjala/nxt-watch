@@ -1,0 +1,9 @@
+.dot {
+  margin-top: 7px;
+  font-size: 20px;
+}
+
+.link {
+  text-decoration: none;
+  cursor: pointer;
+}
